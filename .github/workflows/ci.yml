@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Print message
-        run: echo "Hello GitHub Actions!"
+        run: echo "CI Pipeline executed successfully by students"
